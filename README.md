@@ -11,7 +11,7 @@ Your one-stop repository for all solutions from major competitive programming si
 
 ## ❤️ Coding Profiles
 
-#### **GeeksforGeeks Profile** : https://www.hackerrank.com/vanshumehra 
+#### **GeeksforGeeks Profile** : https://www.geeksforgeeks.com/vanshumehra 
 #### **LeetCode Profile** : https://leetcode.com/VanshuMehra/
 
 
