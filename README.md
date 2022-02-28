@@ -1,4 +1,5 @@
  ## Competitive Programming Solutions
+ <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 Your one-stop repository for all solutions from major competitive programming sites. Check it out :point_down:
 
@@ -11,7 +12,7 @@ Your one-stop repository for all solutions from major competitive programming si
 
 ## ❤️ Coding Profiles
 
-#### **GeeksforGeeks Profile** : https://www.geeksforgeeks.com/vanshumehra 
+#### **GeeksforGeeks Profile** : https://www.geeksforgeeks.org/vanshumehra 
 #### **LeetCode Profile** : https://leetcode.com/VanshuMehra/
 
 
