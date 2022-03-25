@@ -1,14 +1,32 @@
-class Solution
-{
+class Solution {
 public:
-    bool isValidBST(TreeNode *root)
-    {
-        return isValidBST(root, INT_MIN, INT_MAX);
+    
+    
+    void in_order(TreeNode* node, vector<int>& arr){
+        if(node == NULL)
+            return;
+        if(node->left)
+            in_order(node->left,arr);
+        arr.push_back(node->val);
+        if(node->right)
+            in_order(node->right,arr);
     }
-    bool isValidBST(TreeNode *root, int lower, int upper)
-    {
-        if (root == nullptr)
+    bool isValidBST(TreeNode* root) {
+        bool vaild =  true;
+        vector<int> arr;
+        in_order(root,arr);
+        
+        set<int> n;
+        for(auto a:arr){
+            if(n.count(a))
+                return false;
+            else
+                n.insert(a);
+        }
+        vector<int> test = arr;
+        sort(test.begin(),test.end());
+        if(arr == test)
             return true;
-        return root->val > lower && root->val < upper && isValidBST(root->left, lower, root->val) && isValidBST(root->right, root->val, upper);
+        return false;
     }
 };
