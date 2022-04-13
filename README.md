@@ -12,7 +12,7 @@ Your one-stop repository for all solutions from major competitive programming si
 
 ## ❤️ Coding Profiles
 
-#### **GeeksforGeeks Profile** : https://www.geeksforgeeks.org/vanshumehra 
+#### **GeeksforGeeks Profile** : https://auth.geeksforgeeks.org/user/vanshumehra/profile 
 #### **LeetCode Profile** : https://leetcode.com/VanshuMehra/
 
 
