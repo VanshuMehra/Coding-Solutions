@@ -12,13 +12,9 @@ Your one-stop repository for all solutions from major competitive programming si
 
 ## ❤️ Coding Profiles
 
-#### **GeeksforGeeks Profile** : https://www.geeksforgeeks.org/vanshumehra 
+#### **GeeksforGeeks Profile** : https://auth.geeksforgeeks.org/user/vanshumehra/profile 
 #### **LeetCode Profile** : https://leetcode.com/VanshuMehra/
 
 
 ## How to Contribute?
-1. Star 🌟 this repository. 
-2. Take a look at the Existing Issues or create your own Issues.
-3. Fork the Repo and create a Branch for any Issue that you are working upon.
-4. Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
-5. Add Screenshots whereever necessary. (Optional)
+1. Star 🌟 this repository.
